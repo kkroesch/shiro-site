@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "title": "Zero-Knowledge Storage",
+      "text": "Dateien werden lokal verschlüsselt, bevor sie die Shiro App verlassen.",
+      "icon": "eye-off",
+      "weight": 10
+    },
+    {
+      "title": "Security by Design",
+      "text": "Architektur, Kryptografie und Clients sind von Anfang an auf Sicherheit ausgelegt.",
+      "icon": "lock-code",
+      "weight": 30
+    },
+    {
+      "title": "Feingranulare Zugriffsrechte",
+      "text": "Definiere, wer lesen, bearbeiten oder weiterverteilen darf. Berechtigungen lassen sich jederzeit entziehen – auch für bestehende Links.",
+      "icon": "password-user",
+      "weight": 40
+    },
+    {
+      "title": "Versionierung & Nachvollziehbarkeit",
+      "text": "Alle Änderungen werden als neue, verschlüsselte Version gespeichert. Du siehst jederzeit, welche Version aktuell ist und wer sie erstellt hat.",
+      "icon": "clock-question",
+      "weight": 50
+    },
+    {
+      "title": "BYOD & Hardware-Keys",
+      "text": "Shiro funktioniert auf normalen Laptops – optional mit Nitrokey/YubiKey. So bleiben private Geräte möglich, ohne Sicherheitsabstriche.",
+      "icon": "cpu",
+      "weight": 60
+    },
+    {
+      "title": "Integration in bestehende Infrastruktur",
+      "text": "Shiro Cloud läuft auf Standard-Technologien (z. B. S3). Ideal, wenn du bestehende Cloud-Speicher sicher nutzen möchtest, statt alles umzubauen.",
+      "icon": "cube-unfolded",
+      "weight": 70
+    }
+  ]
+}

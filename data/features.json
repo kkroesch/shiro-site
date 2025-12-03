@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Swiss Made",
+    "description": "Shiro Cloud wird in der Schweiz betrieben. Kurze Wege, klare Zuständigkeiten, hohe Datenschutzstandards.",
+    "image": "images/swissmade.jpg"
+  },
+  {
+    "title": "Secure by Design",
+    "description": "Klarer Grundsatz: Kein Klartext auf Servern. Kryptografie ist Teil des Designs, nicht ein nachträgliches Add-on.",
+    "image": "images/secbydesign.jpg"
+  },
+  {
+    "title": "Zero Knowledge",
+    "description": "Architektur, Protokolle und Client sind auf Sicherheit ausgelegt. Einfache Bedienung, ohne „Security-Theater“ für die Anwender.",
+    "image": "images/zeroknowledge.jpg"
+  }
+]

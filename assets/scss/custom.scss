@@ -1,0 +1,12 @@
+.blue-icon {
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
+    height: auto;
+    margin-bottom: 20px;
+    filter: invert(32%) sepia(99%) saturate(2247%) hue-rotate(195deg)
+        brightness(96%) contrast(97%);
+}
